@@ -30,6 +30,14 @@ public class Tache {
         this.description = description;
     }
 
+    public boolean getDoneStatus() {
+        return this.done;
+    }
+
+    public String getDescription() {
+        return this.description;
+    }
+
     /**
      * Affichage console d'une tache
      * @return affichage console d'une tache avec un formatage
