@@ -42,3 +42,25 @@ Effectuer test unitaire + test d'intégration + test systeme
 ## CI
 
 Mettre en place un pipeline Ci pour éxécuter les tests automatiquement a chaque pr vers la branche de et la branche main(prod)
+
+
+## Indicateur de suivie
+
+### couverture des tests
+
+permet de voire quelle pourcentage du code est tester
+
+### pourcentage de duplication
+
+ligne de code dupliquer (permet d'éviter le code redondant)
+
+### lining
+
+permet de s'assurer des bonne conventions de code
+
+## Bug critique
+
+reproduire le bug ....
+
+
+désolé pour l'orthographe
